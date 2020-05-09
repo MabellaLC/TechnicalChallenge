@@ -6,9 +6,7 @@ to be able to use it in different systems (a web site, an API, a desktop applica
 about where is running.
 
 ## Project
-The different sprints are divided in different commits, i know, it's not the best way to present the sprints
-but, unfortunately, I'm not the brightest light under the sun. I could divide the sprints by 
-branches. but when I realised was too late. 
+The different sprints are divided by folders.
 
 I used some design patterns as a command and builder.
 - Command: i wanted to divided the different prizes depends of active campaign. If we would like to introduce
